@@ -1,4 +1,4 @@
-package com.ss.assignment.two;
+package com.ss.lesson.two.two;
 import java.util.PriorityQueue;
 public class arraychecking {
 	/**

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.ss.assignment.one;
+package com.ss.lesson.two.one;
 
 /**
  * @author Space Prius
