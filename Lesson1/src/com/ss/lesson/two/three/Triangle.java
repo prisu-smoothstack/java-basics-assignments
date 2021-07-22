@@ -30,8 +30,7 @@ public class Triangle implements Shape {
 	@Override
 	public void display() {
 		// TODO Auto-generated method stub
-		TriangleBuilder triangle = new TriangleBuilder();
-		triangle.draw(x,y, 0,0, height);
+		System.out.println(this.calculateArea());
 		
 
 	}

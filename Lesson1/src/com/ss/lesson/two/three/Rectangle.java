@@ -29,8 +29,7 @@ public class Rectangle implements Shape {
 	@Override
 	public void display() {
 		// TODO Auto-generated method stub
-		RectBuilder rect = new RectBuilder();
-		rect.draw(w, h, 0, 0);
+		System.out.println(this.calculateArea());
 	}
 
 }

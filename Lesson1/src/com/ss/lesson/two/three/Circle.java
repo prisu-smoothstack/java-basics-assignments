@@ -16,8 +16,7 @@ public class Circle implements Shape {
 	@Override
 	public void display() {
 		// TODO Auto-generated method stub
-		CircleBuilder circle = new CircleBuilder();
-		circle.draw(d, d, 0, 0);
+		System.out.println(this.calculateArea());
 	}
 
 }
