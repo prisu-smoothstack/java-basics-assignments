@@ -60,6 +60,7 @@ public class LessonTwo {
 				System.out.println("Sorry, your soul is mine!");
 			}
 		}
+		scanner.close();
 	}
 
 }

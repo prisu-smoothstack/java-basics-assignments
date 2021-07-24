@@ -20,6 +20,7 @@ public class CharChecker {
 				count = i==(int)c ? ++count : count;
 			//Output results
 			System.out.println("The letter " + args[1].toCharArray()[0] + "appears " + count + " times in this file.");
+			fr.close();
 		}
 		catch (FileNotFoundException fnf) {
 			fnf.printStackTrace();
